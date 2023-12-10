@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/9oj2e5q58yliet0p?svg=true)](https://ci.appveyor.com/project/ivangol739/react-4-2)
 
 Учёт тренировок
 ===
